@@ -5,12 +5,17 @@ contributor:
     agent_name: Vignola, Amédée
     gutenberg_agent_id: '54019'
     url: http://www.gutenberg.org/2009/agents/54019
+covers:
+- cover_type: archival
+  image_path: 66897-h/images/cover.jpg
 creator:
   author:
     agent_name: Diraison-Seylor, Olivier
     gutenberg_agent_id: '54018'
     url: http://www.gutenberg.org/2009/agents/54018
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66897#Amours-d-Extreme-Orient-Illustrations-d-apres-nature-par-Amedee-Vignola
 gutenberg_issued: '2021-12-07'
 identifiers:
   gutenberg: '66897'
